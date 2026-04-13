@@ -1,4 +1,4 @@
-## Cloudforest Frontend Assignment
+## Cloudserver shopping Frontend page
 
 ## 🛠️ Tech Stack
 
